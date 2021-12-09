@@ -3,5 +3,5 @@ function findMatching(drivers, index){
 }
 
 function fuzzyMatch(drivers, index){
-    return drivers.filter(x => index === 'Sa')
+    return drivers.filter(x => x.startsWith(index))
 }
