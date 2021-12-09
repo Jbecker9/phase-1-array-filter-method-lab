@@ -1,4 +1,4 @@
-function findMatching(drivers, `Bobby` && 'Sammy')
+function findMatching(drivers, index)
 
 // const findMatching = function(arr){
 //     for (const drivers of arr) {
